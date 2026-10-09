@@ -1,0 +1,43 @@
+MIT License
+
+Copyright (c) 2026 tieban-liuqin contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Content notice / 内容说明
+
+This repository reconstructs and audits the computational structure of the
+Tie Ban Shen Shu (铁板神数) divination system. All narrative prose, source code
+and file organization are original work. Quoted verse fragments are taken from
+the Qing-dynasty woodblock text 神机妙算铁版数 (c. first half of the 19th
+century), which is in the public domain. No text from any modern commercial
+textbook, correspondence course or paid teaching material has been reproduced.
+
+本仓库复现并审计铁板神数的计算结构。全部叙述文字、源代码与文件组织均为原创；
+所引条文诗句出自清代道光刻本《神机妙算铁版数》系统（约 19 世纪上半叶），已过版权保护期。
+未复制任何现代商业教材、函授课程或收费讲义的文本。
+
+This repository does not endorse or refute the predictive validity of the
+system. It documents what the algorithm computes, and what would be required
+to test whether it predicts anything.
+
+本仓库不构成对铁板神数预测力的认可或否认，只记录该算法在算什么，
+以及要检验"它是否预测了什么"需要什么样的实验。
